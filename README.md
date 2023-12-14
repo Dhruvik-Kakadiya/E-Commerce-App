@@ -1,5 +1,5 @@
 
-# E-Commerce APp
+# E-Commerce App
 
 This is a backend django project for E-Commerce service
 
