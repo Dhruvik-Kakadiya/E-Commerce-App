@@ -17,11 +17,13 @@ Clone the project
 _using ssh_
 
 ```bash
+git@github.com:Dhruvik-Kakadiya/E-Commerce-App.git
 ```
 
 _or using https_
 
 ```bash
+https://github.com/Dhruvik-Kakadiya/E-Commerce-App.git
 ```
 
 Go to the project directory
